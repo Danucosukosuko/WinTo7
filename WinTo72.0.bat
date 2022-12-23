@@ -5,23 +5,9 @@ echo Creando punto de restauración por si las moscas con el nombre "Punto antes
 wmic.exe /Namespace:\\root\default Path SystemRestore Call CreateRestorePoint "Punto antes de la instalación", 100, 7
 echo Creado.
 taskkill /im explorer.exe /f
-start imageres.exe
-Windows7.exe
 cd\
 cd unlocker
 iobitunlocker.exe /delete /normal c:\windows\system32\imageres.dll
-cd\windows\system32
-takeown /f c:\windows\system32\imageres.dll
-icacls "c:\windows\system32\imageres.dll" /grant user1:f
-regsvr32 /u C:\Windows\System32\imageres.dll
-copy imageres.dll imagerescopy.dll
-takeown /f c:\windows\system32\file.dll
-icacls "c:\windows\system32\file.dll" /grant user1:f
-cd windows\system32
-rename c:\windows\system32\imageres.dll imaolder.dll
-rename imageres.dll imaold.dll
-del imageres.dll /q
-start imageres.exe
 reg add "hkcu\control panel\desktop" /v wallpaper /d "c:\Windows7.jpg" /f
 cd\
 copy c:\imageres.dll c:\windows\system32\imageres.dll
