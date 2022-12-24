@@ -12,7 +12,7 @@ Mueve o copia unlocker
 ![image](https://user-images.githubusercontent.com/71569318/209351517-30f7c671-cadf-4f58-9282-8719295ce39e.png)
 
 
-y mueve o copia imageres.dll a C:\ Desde la carpeta imageres7
+y accede a imageres7 y verás imageres.dll, muévelo a C:\
 
 
 Luego Abre WinTo72.0.bat y sigue todos los pasos
