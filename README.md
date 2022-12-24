@@ -1,6 +1,6 @@
 # WinTo7. Como Instalarlo
 SOLO COMPATIBLE DESDE WINDOWS 10 A WINDOWS 11, VERSIÓN 21H2.
-Test Realizado en Windows 11, Versión 21H2
+Test Realizado en Windows 11, Versión 21H2. Y TESTEADO EN WINDOWS 11 V 22H2 (NO FUNCIONA.)
 
 Mueve o copia Windows7.jpg a la raíz del disco duro C:\
 ![image](https://user-images.githubusercontent.com/71569318/209349678-185bccab-c072-4d0b-be44-b4b91c0754c9.png)
