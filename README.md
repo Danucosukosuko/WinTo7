@@ -1,6 +1,7 @@
 # WinTo7 3.0. Como Instalarlo
-
-Abre WinTo7.exe y te saldrá esto: ![image](https://user-images.githubusercontent.com/71569318/226740666-575ca5e1-e757-48c8-bed5-aa4f1932fcc4.png)
+## SOLO COMPATIBLE DESDE WINDOWS 10 A WINDOWS 11, VERSIÓN 21H2. Test Realizado en Windows 11, Versión 21H2. Y TESTEADO EN WINDOWS 11 V 22H2 (NO FUNCIONA.) Si ves este emoji (😊) bien significa que tu PC es compatible.
+Abre WinTo7.exe y te saldrá esto:
+![image](https://user-images.githubusercontent.com/71569318/226740666-575ca5e1-e757-48c8-bed5-aa4f1932fcc4.png)
 
 Ahora dale a Iniciar Transformación. Te saldrá esto: ![image](https://user-images.githubusercontent.com/71569318/226740917-df675ae7-0a2b-4756-81ea-13d20103f97f.png)
 
