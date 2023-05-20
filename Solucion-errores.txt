@@ -1,0 +1,2 @@
+Si resulta que el punto de restauración no se ha creado, haz un:
+"SFC /SANNOW" sin las comillas y con administrador
